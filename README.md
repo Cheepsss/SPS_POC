@@ -10,6 +10,8 @@ In versions 2.441 and earlier (and LTS 2.426.2 and earlier), Jenkins did not dis
 Used docker image:
 [Docker image link](https://hub.docker.com/layers/vulhub/jenkins/2.441/images/sha256-5b84f5cdc39795ca8d4c88182f134b329bef88100e3e83cb655eacb74e1f9f1e)
 
+Recording of using the repository for exploiting the CVE: [YouTube link](https://youtu.be/bWhzCMUfb-Q?si=9nYnKIZpPd3TlqmL)
+
 ## Files: 
 
 * `start.sh` - A shell script that automatically pulls and launches a vulnerable Jenkins v2.441 environment inside a Docker container.
