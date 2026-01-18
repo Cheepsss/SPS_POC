@@ -26,4 +26,3 @@ Recording of using the repository for exploiting the CVE: [YouTube link](https:/
 
 [Exploit link](https://www.exploit-db.com/exploits/51993)
 
-
